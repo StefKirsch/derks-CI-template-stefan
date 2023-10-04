@@ -1,7 +1,7 @@
 def sum(a,b):
 	return a+b
 
-def subtract(a,b)
+def subtract(a,b):
 	return a+b
 
 def test_sum():
